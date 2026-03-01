@@ -1,24 +1,19 @@
 # Autor:Guilherme S. Alves
+# Sistema de Cadastro de Pessoas
 
-# 🗂️ Sistema de Cadastro de Pessoas
-
-Projeto desenvolvido em Python com foco em lógica de programação e fundamentos de back-end.
+Projeto em Python com foco em fundamentos de back-end, organização de código e persistência de dados.
 
 ## 📌 Funcionalidades
 - Cadastro de pessoas (nome e idade)
-- Validação de dados
-- Listagem de pessoas cadastradas
-- Classificação por faixa etária
-- Menu interativo no terminal
+- Classificação automática por faixa etária
+- Listagem organizada
+- Persistência de dados em arquivo JSON
 
-## 🛠️ Tecnologias utilizadas
+## 🛠 Tecnologias
 - Python 3
-- Funções
-- Listas e dicionários
-- Tratamento de erros
+- JSON
+- Git
 
 ## ▶️ Como executar o projeto
-
-1. Clone o repositório:
 ```bash
-git clone https://github.com/GuiStackzin/sistema-cadastro-pessoas.git
+python main.py
